@@ -1066,69 +1066,92 @@ img {
   color: #FCFFFA;
   font-size: 20px;
   font-weight: 400;
+  line-height: 39px;
   transform: rotate(16deg);
 }
 .five3 p:nth-of-type(1) {
-  top: 245px;
-  left: 1282px;
+  top: 153px;
+  left: 714px;
 }
 .five3 p:nth-of-type(2) {
-  top: 245px;
-  left: 1282px;
+  top: 276px;
+  left: 1118px;
 }
-.five3 p:nth-of-type(3) {
-  top: 245px;
-  left: 1282px;
+.five4 > p {
+  position: absolute;
+  color: #FCFFFA;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  font-style: italic;
+  transform: rotate(16deg);
 }
-.five3 p:nth-of-type(4) {
-  top: 245px;
-  left: 1282px;
+.five4 p:nth-of-type(1) {
+  top: 211px;
+  left: 925px;
 }
-.five3 p:nth-of-type(5) {
-  top: 245px;
-  left: 1282px;
+.five4 p:nth-of-type(2) {
+  top: 325px;
+  left: 1330px;
 }
-.five3 p:nth-of-type(6) {
-  top: 245px;
-  left: 1282px;
+.five6 p{
+  position: absolute;
+  color: #FCFFFA;
+  font-size: 15px;
+  font-weight: 400;
+  transform: rotate(16deg);
 }
-.five3 p:nth-of-type(7) {
-  top: 245px;
-  left: 1282px;
+.five6 p:nth-of-type(1){
+  top: 623px;
+  left: 787px;
 }
-.five3 p:nth-of-type(8) {
-  top: 245px;
-  left: 1282px;
+.five6 p:nth-of-type(2){
+  top: 736px;
+  left: 1181px;
 }
-.five3 p:nth-of-type(9) {
-  top: 245px;
-  left: 1282px;
+.five hr:nth-of-type(1){
+  position: absolute;
+  top: 435px;
+  left: 772px;
+  border: none;
+  border-top: 3px solid #FCFFFA;
+  width: 576px;
+  transform: rotate(106deg);
 }
-.five3 p:nth-of-type(10) {
-  top: 245px;
-  left: 1282px;
+.card {
+  position: absolute;
+  top: 812px;
+  left: 677px;
+  height: 146px;
+  width: 224px;
+  background-color: #839973;
+  transform: rotate(-5deg);
+  opacity: .5;
 }
-.five3 p:nth-of-type(11) {
-  top: 245px;
-  left: 1282px;
+.five5 p{
+  position: absolute;
+  top: 857px;
+  left: 749px;
+  color: #FCFFFA;
+  font-size: 30px;
+  font-weight: 400;
+  transform: rotate(-5deg);
 }
-.five3 p:nth-of-type(12) {
-  top: 245px;
-  left: 1282px;
+.five5 p + p{
+  position: absolute;
+  top: 896px;
+  left: 745px;
+  color: #FCFFFA;
+  font-size: 12px;
+  font-weight: 400;
+  transform: rotate(-5deg);
 }
-.five3 p:nth-of-type(13) {
-  top: 245px;
-  left: 1282px;
-}
-.five3 p:nth-of-type(14) {
-  top: 245px;
-  left: 1282px;
-}
-.five3 p:nth-of-type(15) {
-  top: 245px;
-  left: 1282px;
-}
-.five3 p:nth-of-type(16) {
-  top: 245px;
-  left: 1282px;
+.five hr:nth-of-type(2) {
+  position: absolute;
+  top: 882px;
+  left: 711px;
+  border: none;
+  border-top: 1px solid #FCFFFA;
+  width: 158px;
+  transform: rotate(-5deg);
 }
