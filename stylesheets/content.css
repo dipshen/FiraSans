@@ -1155,3 +1155,163 @@ img {
   width: 158px;
   transform: rotate(-5deg);
 }
+.six {
+  position: absolute;
+  top: 5210px;
+  height: 1024px;
+  width: 1440px;
+}
+.six > p{
+  position: absolute;
+  color: #FCFFFA;
+}
+.six p:nth-of-type(1){
+  top: 82px;
+  left: 224px;
+  font-size: 160px;
+  font-weight: 500;
+}
+.six p:nth-of-type(2){
+  top: 105px;
+  left: 1037px;
+  font-size: 100px;
+  font-weight: 500;
+}
+.six p:nth-of-type(3){
+  top: 269px;
+  left: 224px;
+  font-size: 100px;
+  font-weight: 300;
+}
+.six p:nth-of-type(4){
+  top: 547px;
+  left: 57px;
+  font-size: 110px;
+  font-weight: 900;
+  transform: rotate(-90deg);
+}
+.six p:nth-of-type(5){
+  top: 621px;
+  left: 264px;
+  font-size: 90px;
+  font-weight: 100;
+  transform: rotate(-90deg);
+}
+.six p:nth-of-type(6){
+  top: 633px;
+  left: 424px;
+  font-size: 72px;
+  font-weight: 900;
+  transform: rotate(90deg);
+}
+.six p:nth-of-type(7){
+  top: 816px;
+  left: 221px;
+  font-size: 130px;
+  font-weight: 300;
+}
+.six p:nth-of-type(8){
+  top: 435px;
+  left: 485px;
+  font-size: 160px;
+  font-weight: 900;
+  transform: rotate(-90deg);
+}
+.six p:nth-of-type(9){
+  top: 296px;
+  left: 681px;
+  font-size: 117px;
+  font-weight: 100;
+  transform: rotate(-90deg);
+}
+.six p:nth-of-type(10){
+  top: 756px;
+  left: 689px;
+  font-size: 60px;
+  font-weight: 300;
+}
+.six p:nth-of-type(11){
+  top: 747px;
+  left: 924px;
+  font-size: 70px;
+  font-weight: 500;
+}
+.six img:nth-of-type(1){
+  top: 90px;
+  left: 68px;
+  height: 835px;
+  width: 132px;
+}
+.six img:nth-of-type(2){
+  top: 423px;
+  left: 328px;
+  height: 70px;
+  width: 266px;
+}
+.six img:nth-of-type(3){
+  top: 244px;
+  left: 1019px;
+  height: 463px;
+  width: 171px;
+}
+.six img:nth-of-type(4){
+  top: 854px;
+  left: 744px;
+  height: 88px;
+  width: 467px;
+}
+.six img:nth-of-type(5){
+  top: 238px;
+  left: 1227px;
+  height: 690px;
+  width: 120px;
+}
+.six img:nth-of-type(6){
+  top: 631px;
+  left: 840px;
+  height: 97px;
+  width: 198px;
+}
+.seven {
+  position: absolute;
+  top: 6234px;
+  height: 1086px;
+  width: 1440px;
+}
+.seven > p{
+  position: absolute;
+  color: #FCFFFA;
+}
+.seven h3{
+  position: absolute;
+  font-weight: 500;
+  color: #FCFFFA;
+  top: 54px;
+  left: 168px;
+}
+.seven p{
+  top: 152px;
+  left: 165px;
+  line-height: normal;
+  font-size: 30px;
+  font-weight: 400;
+}
+.seven img{
+  top: 149px;
+  left: 102px;
+  height: 910px;
+  width: 1240px;
+}
+.podval {
+  position: absolute;
+  top: 7320px;
+  height: 252px;
+  width: 1440px;
+  background-color: #404147;
+}
+/* .podval > p{
+  position: absolute;
+
+  width: 1440px;
+  color: #404147;
+} */
