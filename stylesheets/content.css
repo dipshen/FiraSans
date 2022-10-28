@@ -21,11 +21,6 @@ h3 {
   font-weight: 600;
   font-size: 40px;
 }
-img {
-  position: absolute;
-  opacity: .5;
-  width: 1440px;
-}
 .one2 {
   height: 1024px;
   weight: 1440px;
@@ -1126,7 +1121,6 @@ img {
   width: 224px;
   background-color: #839973;
   transform: rotate(-5deg);
-  opacity: .5;
 }
 .five5 p{
   position: absolute;
@@ -1307,11 +1301,34 @@ img {
   top: 7320px;
   height: 252px;
   width: 1440px;
-  background-color: #404147;
 }
-/* .podval > p{
+.pr{
+  background-color: #404147;
   position: absolute;
-
+  top: 0px;
+  left: 0px;
+  height: 252px;
   width: 1440px;
-  color: #404147;
-} */
+}
+.podval > p{
+  position: absolute;
+  font-size: 30px;
+  font-weight: 400;
+  color: #FCFFFA;
+}
+.podval p:nth-of-type(1){
+  top: 84px;
+  left: 87px;
+}
+.podval p:nth-of-type(2){
+  top: 140px;
+  left: 86px;
+}
+.podval p:nth-of-type(3){
+  top: 83px;
+  left: 1244px;
+}
+.podval p:nth-of-type(4){
+  top: 138px;
+  left: 1293px;
+}
