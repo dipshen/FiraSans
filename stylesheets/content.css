@@ -21,6 +21,11 @@ h3 {
   font-weight: 600;
   font-size: 40px;
 }
+img {
+  position: absolute;
+  /* opacity: .5; */
+  width: 1440px;
+}
 .one2 {
   height: 1024px;
   weight: 1440px;
@@ -489,6 +494,10 @@ h3 {
   line-height: normal;
   transform: rotate(0deg);
 }
+/* .two img {
+  top: 171px;
+  left: 641px;
+} */
 .three {
   position: absolute;
   top: 1964px;
