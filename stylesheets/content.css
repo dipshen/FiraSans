@@ -293,7 +293,6 @@ img {
   width: 463px;
   transform: rotate(-7deg);
   background-color: #FCFFFA;
-  /* opacity: .5; */
 }
 .two > p{
   position: absolute;
@@ -494,10 +493,12 @@ img {
   line-height: normal;
   transform: rotate(0deg);
 }
-/* .two img {
-  top: 171px;
-  left: 641px;
-} */
+.two img {
+  top: 405px;
+  left: 790px;
+  width: 396px;
+  height: 510px;
+}
 .three {
   position: absolute;
   top: 1964px;
